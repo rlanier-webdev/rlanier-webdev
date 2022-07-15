@@ -2,7 +2,7 @@
 - 👀 I’m interested in fullstack development.
 - 🌱 HTML/CSS/JS, Wordpress // Currently learning Python, Django framework
 
-- 📫 How to reach me rashunda@citygirlcodes.me
+- 📫 How to reach me dev@rashundawilliams.com
 
 <!---
 rlanier-webdev/rlanier-webdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
