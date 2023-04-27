@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rlanier-webdev
-- 👀 I’m interested in fullstack development.
-- 🌱 HTML/CSS/JS, Wordpress // Currently learning Python, Django framework
+- 👀 I’m interested in backend development and DevOps.
 
 - 📫 How to reach me dev@rashundawilliams.com
 
