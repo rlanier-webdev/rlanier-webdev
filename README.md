@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @rlanier-webdev
-- 👀 I’m interested in backend development and DevOps.
-
-- 📫 How to reach me dev@rashundawilliams.com
+- 👋 Hi, I’m Ray
 
 Org - thrtn85 // https://github.com//thrtn85
