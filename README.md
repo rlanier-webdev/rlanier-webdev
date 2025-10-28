@@ -19,8 +19,7 @@ Hello! I'm Ray — a tech-savvy professional with over 15 years of experience in
 - Django
 
 ### 📚 Currently Learning
-- Go
-- Web Application Development
+- Microsoft Power Platform
 
 ---
 
