@@ -1,4 +1,4 @@
-# 👋🏾 Hi, I’m Ray
+# Hi, I’m Ray
 
 I’m a Customer Support and Systems-focused professional with a strong interest in **using AI to build practical solutions and improve workflows**.
 
@@ -13,16 +13,16 @@ I’m currently exploring how AI can support better tooling, faster analysis, an
 
 ## 🔧 What I Work On
 
-- 🧠 Using AI to **build solutions** for analysis, workflows, and task automation
-- 🛠 Developing small, practical tools that solve real problems
-- 🔍 Troubleshooting complex system issues and reproducing bugs
-- ✍🏽 Documentation, process improvement, and knowledge sharing
+- Using AI to **build solutions** for analysis, workflows, and task automation
+- Developing small, practical tools that solve real problems
+- Troubleshooting complex system issues and reproducing bugs
+- Documentation, process improvement, and knowledge sharing
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
-### 🔹 AI Job Analyzer
+### AI Job Analyzer
 **Repo:** https://github.com/rlanier-webdev/ai-job-analyzer
 
 A lightweight AI-assisted project designed to:
@@ -36,7 +36,7 @@ This project reflects how I approach AI:
 
 ---
 
-## 🧠 How I’m Using AI Today
+## How I’m Using AI Today
 
 - Assisting with task prioritization and workflow planning
 - Analyzing unstructured text (job descriptions, requirements, notes)
@@ -46,7 +46,7 @@ This project reflects how I approach AI:
 
 ---
 
-## 🛠 Skills & Tools
+## Skills & Tools
 
 **Languages:** Python (learning), SQL (analysis), basic scripting  
 **Frameworks:** Django (foundations)  
@@ -56,7 +56,7 @@ This project reflects how I approach AI:
 
 ---
 
-## 📫 What I’m Working Toward
+## What I’m Working Toward
 
 I’m actively building toward roles that combine:
 - Customer experience
