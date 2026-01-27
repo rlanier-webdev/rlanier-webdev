@@ -11,7 +11,7 @@ I’m currently exploring how AI can support better tooling, faster analysis, an
 
 ---
 
-## 🔧 What I Work On
+## What I Work On
 
 - Using AI to **build solutions** for analysis, workflows, and task automation
 - Developing small, practical tools that solve real problems
