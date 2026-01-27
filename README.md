@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ray
+# 👋🏾 Hi, I’m Ray
 
 I’m a Customer Support and Systems-focused professional with a strong interest in **using AI to build practical solutions and improve workflows**.
 
