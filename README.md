@@ -7,8 +7,6 @@ With 10+ years across enterprise support environments, I focus on API investigat
 
 Currently moving deeper into Support Engineering, platform operations, internal tooling, and automation.
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&height=250&color=A78BFA&text=Support%20Engineering%20×%20Systems%20Thinking&fontSize=40&reversal=false" /> </p>
-
 ## What I Work On
 - Customer issue investigation → technical root cause analysis
 - SQL-based diagnostics & data validation
